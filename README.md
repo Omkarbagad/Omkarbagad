@@ -27,7 +27,7 @@
     <a href="www.linkedin.com/in/omkar-bagad-a5213122b">
         <img src="https://img.shields.io/badge/For_Professional_Updates-15k?style=for-the-badge&color=0a66c2&logo=linkedin" alt="LinkedIn"/>
     </a>
-    <a href="https://www.instagram.com/suman.ghosts/">
+    <a href="https://www.instagram.com/omkaarbagad03/">
         <img src="https://img.shields.io/badge/For_Personal_Updates-2k?style=for-the-badge&color=E4405F&logo=instagram&logoColor=fff" alt="Instagram"/>
     </a>
 </p>
